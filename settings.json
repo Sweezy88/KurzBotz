@@ -1,6 +1,6 @@
 {
 "autoread": true,
-"autoplaymusic": true,
+"autoplaymusic": false,
 "autocomposing": false,
 "autorecording": true,
 "NamaBot":"Kurz Bot Assistan", 
